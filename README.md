@@ -10,7 +10,7 @@ to the users cache using a GUID.</p>
 Code Snapshots
 
 <h3>Create GUID with Isession functionality</h3>
-![GuidEccommerce](https://user-images.githubusercontent.com/67170488/124626372-d7ce7280-de3b-11eb-876a-db5a3a1d6ad6.jpg)
+https://github.com/wespwojcik/C-SHARP-ASP.NET-Projects/blob/main/GuidEccommerce.jpg
 
 <p> This code creates a GUID every time a user opens the website in the browser by creating a service. This is service is injected into my 
  shopping cart class. After i'm done registering my GUID, the GUID is then returned as a shopping cart object which is returned as a db context object</p>
