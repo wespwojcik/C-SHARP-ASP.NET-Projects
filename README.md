@@ -4,3 +4,12 @@
 
 <p>Created a full eccommerce website with authentication and authorization abilities. I also added a cache feature which allowed the user to add things to the cart and save items
 to the users cache using a GUID.</p>
+
+
+
+Code Snapshots
+
+<h3>Create GUID with Isession functionality</h3>
+![image](https://user-images.githubusercontent.com/67170488/124625368-f7b16680-de3a-11eb-9c99-e42a7614742b.png)
+<p> This code creates a GUID every time a user opens the website in the browser by creating a service. This is service is injected into my 
+ shopping cart class. After i'm done registering my GUID, the GUID is then returned as a shopping cart object which is returned as a db context object</p>
